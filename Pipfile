@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "*"
+python-decouple = "*"
+dj-database-url = "*"
+sentry-sdk = "*"
+psycopg2-binary = "*"
+whitenoise = "*"
+gunicorn = "*"
+
+[dev-packages]
+ipython = "*"
+ipdb = "*"
+pytest = "*"
+black = "*"
+isort = "*"
+pytest-django = "*"
+pytest-pythonpath = "*"
+
+[requires]
+python_version = "3.9"
