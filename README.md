@@ -3,7 +3,7 @@
 ## How to use
 
 ```bash
-$ django-admin startproject --name Procfile,setup.cfg --template https://github.com/rougeth/django-template/archive/master.zip new_django_project .
+$ django-admin startproject --name Procfile,setup.cfg --template https://github.com/rougeth/django-template/archive/main.zip new_django_project .
 ```
 
 ## Features
